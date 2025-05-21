@@ -79,9 +79,3 @@ python AnalyzerGUI.py
 - File resource leaks
 
 ## ENJOY (WILL PERIODICALLY UPDATE)
-
----
-
-## 📄 License
-
-[MIT License](LICENSE) (or specify your license here)
